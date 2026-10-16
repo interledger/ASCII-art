@@ -1,0 +1,18 @@
+Title: Piggy Bank
+Artist: @sonu7089
+Category: payments
+Description: Saving one coin at a time.
+---
+           ( $ )
+            '-'
+             |
+      .-""""__""""-.
+     /                \
+    |   o          o   |
+    |       .----.     |
+    |       |o  o|     |
+    |       '----'     |
+     \                /
+      '-............-'
+        |_|      |_|
+      every cent counts
