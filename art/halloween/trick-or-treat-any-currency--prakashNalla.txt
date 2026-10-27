@@ -1,0 +1,32 @@
+Title: Trick or Treat, Any Currency
+Artist: @prakashNalla
+Category: halloween
+Description: Every house hands out a different currency. One bag takes them all.
+---
+      .-.        ^v^                                    ^v^       *
+     (   )             *          ^v^          *
+      '-'      *                                           *        ^v^
+       /\                /\                /\                /\
+      /  \              /  \              /  \              /  \
+     /    \            /    \            /    \            /    \
+    / USD  \          / EUR  \          / INR  \          / JPY  \
+   /________\        /________\        /________\        /________\
+   | []  [] |        | []  [] |        | []  [] |        | []  [] |
+   |   .--. |        |   .--. |        |   .--. |        |   .--. |
+   |   |  | |        |   |  | |        |   |  | |        |   |  | |
+   '---'--'-'        '---'--'-'        '---'--'-'        '---'--'-'
+       |                 |                 |                 |
+       '--------.        |                 |        .--------'
+                 '-------+--------.--------+-------'
+                                  |
+                                  v
+                               .-----.
+                              /  o o  \
+                             |    O    |      "boo! I take
+                             |         |       any currency."
+                            /|  .---.  |\
+                           / |  |ILP|  | \
+                          (  |  |BAG|  |  )
+                           \_|  '---'  |_/
+                             |         |
+                             '~-~-~-~-~'
