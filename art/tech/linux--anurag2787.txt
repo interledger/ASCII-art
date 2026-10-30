@@ -1,0 +1,14 @@
+Title: Born Open, Runs the World
+Artist: @anurag2787
+Category: tech
+Description: Meet Tux, the penguin behind the kernel that powers the world.
+---
+          .--.
+         |o_o |
+         |:_/ |
+        //   \ \
+       (|     | )
+      /'\_   _/`\
+      \___)=(___/
+
+   "Small penguin. Massive ecosystem"
