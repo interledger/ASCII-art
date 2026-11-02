@@ -1,0 +1,19 @@
+Title: Open Payments Digital Wallet
+Artist: @satanic47
+Category: payments
+Description: A digital wallet interface demonstrating a 0-hop settled Interledger Open Payments transaction.
+---
+    _________________________________________
+   |                                         |
+   |   [$$$]  INTERLEDGER OPEN PAYMENTS      |
+   |                                         |
+   |   +---------------------------------+   |
+   |   | [>] RECIPIENT: $ilp.wallet/user |   |
+   |   | [<] STATUS   : SETTLED (0-HOP)  |   |
+   |   | [$] AMOUNT   : 50.00 USD        |   |
+   |   +---------------------------------+   |
+   |                                         |
+   |      ( ( ( o ) ) )  NFC STREAMING       |
+   |                                         |
+   |   [==============================] 100% |
+   |_________________________________________|
